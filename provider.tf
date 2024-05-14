@@ -14,7 +14,7 @@ terraform {
     organization = "Postech-YJ"
 
     workspaces {
-      name = "order-manager"
+      name = "amazon-eks"
     }
   }
 }
